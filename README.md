@@ -1,5 +1,3 @@
-# burger
-
 ### My Burger App!!!
 
 <p> Repo that allows you to determine if a burger is devoured or not devoured.</p>
